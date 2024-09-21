@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 618a09464fe44594fb7439e2f521d79a, type: 3}
+  m_Name: Fish
+  m_EditorClassIdentifier: 
+  _icon: {fileID: -944641501, guid: f7d7322e99ba6bc45be42e73b0647fdf, type: 3}
+  _brokenIcon: {fileID: 0}
+  _displayName: Fish
+  _description: a creature from the bodies of water found throught the world. Eating
+    one restores some health
+  _category: food
+  _itemRarity: 0
+  _maxStackSize: 64
+  _maxDurability: 0
+  _itemValue: 0
+  _consumeOnUse: 0
+  _noDurabilityBehavior: 0

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ab660f05ee973945a5e00666da78d44, type: 3}
+  m_Name: TestTable
+  m_EditorClassIdentifier: 
+  _minRolls: 9
+  _maxRolls: 18
+  _bonusRolls: 0.5
+  _entries:
+  - _item: {fileID: 11400000, guid: 630942edb8fd6964c8b7af3edb695165, type: 2}
+    _weight: 10
+    _minCount: 1
+    _maxCount: 1
+  - _item: {fileID: 11400000, guid: eb246511ca2ab0b428aea3c21cb58af5, type: 2}
+    _weight: 10
+    _minCount: 2
+    _maxCount: 8
+  - _item: {fileID: 11400000, guid: 0071ac69770f4484b801c25dd912de49, type: 2}
+    _weight: 10
+    _minCount: 1
+    _maxCount: 1
+  - _item: {fileID: 11400000, guid: d5fdba1a65fa6804db4d7a434db8af57, type: 2}
+    _weight: 10
+    _minCount: 1
+    _maxCount: 18
+  - _item: {fileID: 11400000, guid: 041fe3da1caf979428814bb022fecced, type: 2}
+    _weight: 3
+    _minCount: 1
+    _maxCount: 1
