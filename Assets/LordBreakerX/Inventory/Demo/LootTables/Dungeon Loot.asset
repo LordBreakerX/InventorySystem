@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ab660f05ee973945a5e00666da78d44, type: 3}
+  m_Name: Dungeon Loot
+  m_EditorClassIdentifier: 
+  _minRolls: 6
+  _maxRolls: 10
+  _bonusRolls: 2
+  _entries:
+  - _item: {fileID: 11400000, guid: 50230339d8bef944aab9a7ad16cdf239, type: 2}
+    _weight: 2
+    _minCount: 1
+    _maxCount: 1
+  - _item: {fileID: 11400000, guid: b4ff39340d652cd4d86c883c2832872d, type: 2}
+    _weight: 2
+    _minCount: 1
+    _maxCount: 1
+  - _item: {fileID: 11400000, guid: fa8dfc9186117ac45a7efac94fda1301, type: 2}
+    _weight: 1
+    _minCount: 1
+    _maxCount: 1
+  - _item: {fileID: 11400000, guid: 57737abd9d90fbf4d8aca3dccba72489, type: 2}
+    _weight: 2
+    _minCount: 1
+    _maxCount: 1
+  - _item: {fileID: 11400000, guid: 0ddac5e7e01c1ce4592306270c715e24, type: 2}
+    _weight: 3
+    _minCount: 1
+    _maxCount: 4

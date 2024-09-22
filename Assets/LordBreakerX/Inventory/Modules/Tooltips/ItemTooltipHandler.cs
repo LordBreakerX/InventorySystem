@@ -22,7 +22,7 @@ namespace LordBreakerX.Inventory.Tooltips
 
         private void OnDisable()
         {
-            TooltipManager.Instance.HideTooltip(tooltipID);
+            if (TooltipManager.Instance != null) TooltipManager.Instance.HideTooltip(tooltipID);
             _overArea = false;
         }
 

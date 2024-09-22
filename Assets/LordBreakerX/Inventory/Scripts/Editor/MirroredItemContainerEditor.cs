@@ -25,7 +25,7 @@ namespace LordBreakerX.Inventory
         {
             VisualElement root = new VisualElement();
 
-            HeaderBox header = new HeaderBox("Item", 30, Color.black, Color.gray);
+            HeaderBox header = new HeaderBox("Mirrored Item Container", 30, Color.black, Color.gray);
             header.AddBorder(5, Color.black);
 
             BoxElement space = new BoxElement(20);
