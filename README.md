@@ -6,7 +6,7 @@ You can integrate the Inventory system into your Unity project by either importi
 
 1. In this repository, navigate to the `UnityPackages` folder.
 2. Choose one of the following packages:
-   - `InventorySystem`: Contains only the core day-night system.
+   - `InventorySystem`: Contains only the core inventory and tooltip systems.
    - `InventorySystem_WithDemo`: Includes the core system along with a demo scene.
 3. Click on your preferred package, then click the three dots (`...`) on the right side.
 4. Select **Download** from the dropdown menu.
