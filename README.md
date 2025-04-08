@@ -6,15 +6,15 @@ You can integrate the Inventory system into your Unity project by either importi
 
 1. In this repository, navigate to the `UnityPackages` folder.
 2. Choose one of the following packages:
-   - `Inventory`: Contains only the core day-night system.
-   - `Inventory_WithDemo`: Includes the core system along with a demo scene.
+   - `InventorySystem`: Contains only the core day-night system.
+   - `InventorySystem_WithDemo`: Includes the core system along with a demo scene.
 3. Click on your preferred package, then click the three dots (`...`) on the right side.
 4. Select **Download** from the dropdown menu.
 5. Open your Unity project.
 6. In the **Project** window, right-click and choose **Import Package > Custom Package...**.
 7. Locate the `.unitypackage` file you just downloaded and click **Open** to import it.
 
-> ℹ️ **Note:** If you imported the `Inventory_WithDemo` package and want to remove the demo content, you can delete the `LordBreakerX/Inventory/Demo` folder from your project's `Assets` directory.
+> ℹ️ **Note:** If you imported the `InventorySystem_WithDemo` package and want to remove the demo content, you can delete the `LordBreakerX/Inventory/Demo` folder from your project's `Assets` directory.
 
 ## Option 2: Downloading the Full Project as a ZIP
 
